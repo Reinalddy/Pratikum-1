@@ -1,3 +1,16 @@
+#Biodata Mahasiswa Pembuat
+
+print("#### Tugas Pemograman Pratikum 1 ####")
+print("nama :Reinalddy")
+print("NIM :312110522")
+print("Tema :Program penginputan biodata")
+
+print("###############")
+print("###############")
+print("###############")
+print("###############")
+
+#Program Inti
 print ("Assalamualaikum")
 print ("Let me introduce my self")
 
